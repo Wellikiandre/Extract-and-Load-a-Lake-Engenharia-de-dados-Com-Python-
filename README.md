@@ -1,3 +1,6 @@
+
+Link do Código:https://extract-and-load-a-lake-engenharia-de-dados-com-python.vercel.app/
+
 Artigo com mais detalhes: https://www.linkedin.com/pulse/extract-load-lake-engenharia-de-dados-com-python-wellikiandre%3FtrackingId=403c8PFoRrOeDJ01%252FXrUbg%253D%253D/?trackingId=403c8PFoRrOeDJ01%2FXrUbg%3D%3D
 
 Vai ficar com medo do desafio ou vai brincar e rolar com ele? #Python não morde.
